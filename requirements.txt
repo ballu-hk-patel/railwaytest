@@ -165,7 +165,6 @@ Werkzeug==1.0.1
 whitenoise==5.2.0
 widgetsnbextension==3.5.1
 wikipedia==1.4.0
-win10toast==0.9
 wrapt==1.12.1
 xhtml2pdf==0.2.5
 xlrd==1.2.0
